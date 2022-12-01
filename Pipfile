@@ -7,6 +7,7 @@ name = "pypi"
 pandas = "*"
 streamlit = "*"
 openpyxl = "*"
+plotly-express = "*"
 
 [dev-packages]
 ipykernel = "*"
